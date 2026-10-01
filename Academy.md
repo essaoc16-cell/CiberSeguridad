@@ -1,4 +1,6 @@
 Primero abrimos la terminal de Kali Linux
+<img width="1917" height="1091" alt="image" src="https://github.com/user-attachments/assets/f56c2258-2634-4d14-b7cc-9c07adeb2dc9" />
+
 ![[Pasted image 20260928215119.png]]
 
 Scaneamos el puerto con nmap 
