@@ -1,4 +1,4 @@
-Inicializamos la máquina PapaFrita y Kali Linux 
+Inicializamos la máquina PapaFrita y Kali Linux .
 ![[Pasted image 20260929220059.png]]
 ![[Pasted image 20260929220153.png]]
 
